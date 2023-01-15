@@ -1,4 +1,4 @@
-% this script visualize the death phase of WT anc vs. evo strains
+% This script visualizes the death curves of WT anc vs. evo strains
 
 clear
 
@@ -13,11 +13,7 @@ set(0, 'DefaultAxesFontName', 'times');
 set(0, 'DefaultAxesLineWidth', 1);
 
 
-
-
-
-%% This code prepare the data for creating the death phsae
-
+%% This code prepares the data before creating the death curves
 
 x_anc= [0, 3, 7, 10, 14, 17, 21, 24, 26, 28, 30, 32];
 x_evo= [0, 3, 7, 10, 14, 17, 21, 24, 26, 28, 30, 32];
@@ -46,7 +42,7 @@ set(gca,'YMinorTick','off')
 xlabel('\textbf{Time\ [Days]}', 'Interpreter','latex', 'FontSize', 13);
 ylabel('\textbf{Log(Number of living cells/ml)}', 'Interpreter','latex', 'FontSize', 13)
 
-%to remove the error bar icons from legend, we put a lot of variance into
+% to remove the error bar icons from legend, we put a lot of variance into
 %the variance we assign the legend
 [lgd, icons, plots, txt] = legend('\textbf{ AncWT}', '\textbf{ EvoWT}','Interpreter','latex', 'Location', 'NorthEast', 'EdgeColor', 'w', 'FontSize', 11);
 

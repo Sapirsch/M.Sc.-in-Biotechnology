@@ -3,7 +3,6 @@
 
 clear
 
-
 set(0,'DefaultAxesFontSize', 9); %Eight point Times is suitable typeface for an IEEE paper. Same as figure caption size
 set(0,'DefaultAxesFontWeight', 'bold');
 set(0,'DefaultFigureColor','w')
@@ -24,14 +23,12 @@ error_WT_arr = [3.04*10^-7, 3.4*10^-7, 4*10^-7];
 
 error_WT = mean(error_WT_arr);
 
-
 error_anc_arr = error_anc./error_WT;
 error_evo_arr = error_evo./error_WT;
 
 SE_anc = std( error_anc_arr ) / sqrt( length(error_anc_arr) );
 SE_evo = std( error_evo_arr ) / sqrt( length(error_evo_arr) );
 SE_WT = std( error_WT_arr ) / sqrt( length(error_WT_arr) );
-
 
 anc_plot = [100; 0];
 evo_plot = [0;10];
@@ -42,7 +39,6 @@ evo_SE = [NaN; SE_evo];
 
 %% creating the figure
 
-
 yyaxis left
 b1 = bar(anc_plot, 'grouped', 'BarWidth', 0.5);
 set(gca, 'YScale', 'log')
@@ -50,8 +46,6 @@ set(gca, 'YScale', 'log')
 yyaxis right
 b2 = bar(evo_plot, 'grouped', 'BarWidth', 0.5);
 set(gca, 'YScale', 'log')
-
-
 
 
 hold on
@@ -76,12 +70,9 @@ for i = 1:nbars
 end
 
 
-
 % Plot the errorbars
 errorbar(x',anc_plot,anc_SE,'k','linestyle','none');
-
 hold on
-
 errorbar(a',evo_plot,evo_SE,'k','linestyle','none');
 
 

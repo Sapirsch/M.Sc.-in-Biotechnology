@@ -16,16 +16,13 @@ set(gcf, 'Position',[0 0 18.3 18.3])
 
 %% TM+cip
 
-
 subplot(9,2,[1 2 3 4 5 6 7 8 9 10])
-
 
 anc_plot = [0.625; 0];
 evo_plot = [0;0.25];
 
 anc_SE = [0.0354; NaN];
 evo_SE = [NaN; 0.0416];
-
 
 yyaxis left
 b1 = bar(anc_plot, 'grouped', 'BarWidth', 0.5);
@@ -59,25 +56,20 @@ end
 
 % Plot the errorbars
 errorbar(x',anc_plot,anc_SE,'k','linestyle','none');
-
 hold on
-
 errorbar(a',evo_plot,evo_SE,'k','linestyle','none');
+
 
 
 %% TM
 
 subplot(9,2,[11 13 15 17])
 
-
 TM_anc = [5; 0];
 TM_evo = [0; 10];
 
-
 SE_anc = [0.8333; NaN];
 SE_evo = [NaN; 2.1408];
-
-
 
 %subplot 121;
 
@@ -101,8 +93,6 @@ for i = 1:nbars
     x(i,:) = b1(i).XEndPoints;
 end
 
-
-
 % Calculate the number of groups and number of bars in each group for evo
 [ngroups,nbars] = size(TM_evo);
 % Get the x coordinate of the bars
@@ -112,14 +102,11 @@ for i = 1:nbars
     a(i,:) = b2(i).XEndPoints;
 end
 
-
-
 % Plot the errorbars
 errorbar(x',TM_anc,SE_anc,'k','linestyle','none');
-
 hold on
-
 errorbar(a',TM_evo,SE_evo,'k','linestyle','none');
+
 
 
 %% cip 
@@ -129,11 +116,8 @@ subplot(9,2,[12 14 16 18])
 cip_anc = [0.5; 0];
 cip_evo = [0; 0.5];
 
-
 SE_anc_cip = [0.0913; NaN];
 SE_evo_cip = [NaN; 0.1667];
-
-
 
 yyaxis left
 b1 = bar(cip_anc, 'grouped', 'BarWidth', 0.5);
@@ -155,7 +139,6 @@ for i = 1:nbars
     x(i,:) = b1(i).XEndPoints;
 end
 
-
 % Calculate the number of groups and number of bars in each group for evo
 [ngroups,nbars] = size(cip_evo);
 % Get the x coordinate of the bars
@@ -167,9 +150,7 @@ end
 
 % Plot the errorbars
 errorbar(x',cip_anc,SE_anc_cip,'k','linestyle','none');
-
 hold on
-
 errorbar(a',cip_evo,SE_evo_cip,'k','linestyle','none');
 
 

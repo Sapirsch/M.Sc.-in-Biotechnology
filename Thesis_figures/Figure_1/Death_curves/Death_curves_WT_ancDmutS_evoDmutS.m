@@ -1,4 +1,4 @@
-% This script visualize the death curves of WT, dmutS anc, dmutS evo
+% This script visualizes the death curves of WT, dmutS anc, dmutS evo
 % strains
 
 clear
@@ -15,7 +15,7 @@ set(0, 'DefaultAxesLineWidth', 1);
 
 
 
-%% This code prepare the data for creating the death curves
+%% This code prepares the data before creating the death curves
 
 x_WT = [0, 2, 4, 6, 9, 11, 13, 16, 18, 20, 22, 25, 28, 30, 32];
 x_anc= [0, 2, 4, 6, 9, 11, 13, 16, 18, 20];
@@ -58,7 +58,7 @@ leg_1.ItemTokenSize = [12,10];
 
 title('\textbf{A}', 'Interpreter','latex', 'FontSize', 20, 'position',[-4 10^10])
 
-%% this part export the figure into a png file
+%% this part exports the figure into a png file
 
 filename = 'Death_curve_final.png' ; %Descriptive name timestamp and .png file format
 
