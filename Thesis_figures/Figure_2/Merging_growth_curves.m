@@ -1,4 +1,4 @@
-% This scripts merges 2 existed figure (of growth curves) into one figure
+% This scripts merges 2 existed figures (of growth curves) into one figure
 
 set(0,'DefaultAxesFontSize', 9); %Eight point Times is suitable typeface for an IEEE paper. Same as figure caption size
 set(0,'DefaultAxesFontWeight', 'bold');

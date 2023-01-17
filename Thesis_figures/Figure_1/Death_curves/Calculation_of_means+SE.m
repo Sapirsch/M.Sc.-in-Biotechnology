@@ -1,5 +1,5 @@
 
-% This script calculates for WT, dmutS anc and dmutS evo strain the mean and the standared errors (SEM) of
+% This script calculates for WT, dmutS anc and dmutS evo strains the mean and the standared errors (SEM) of
 % all replicates in each day, which eventually will be used to generate a
 % death curve for each strain.
 

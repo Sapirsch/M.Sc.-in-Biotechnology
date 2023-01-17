@@ -1,4 +1,4 @@
-% This scrips merge all 3 figs of the MIC bar graphs for all dmutS evo
+% This scrips merges all 3 figs of the MIC bar graphs for all dmutS evo
 % replicates for the combination of TM and cip, just TM and just cip
 
 clear

@@ -1,4 +1,4 @@
-% This script creates bar graphs of each replicate of anc and evo dmutS strains
+% This script creates bar graphs of the survival days of each replicate of anc and evo dmutS strains
 
 clear
 

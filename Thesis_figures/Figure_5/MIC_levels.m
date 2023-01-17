@@ -1,4 +1,4 @@
-% This script creats bar graphs for MIC (minimal inhibitory concentrartion) for antibitioncs (TM+cip, TM, cip)
+% This script creates bar graphs of MIC (minimal inhibitory concentrartion) levels for antibitioncs (TM+cip, TM, cip)
 
 
 set(0,'DefaultAxesFontSize', 9); %Eight point Times is suitable typeface for an IEEE paper. Same as figure caption size

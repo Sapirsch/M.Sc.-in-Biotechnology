@@ -1,4 +1,4 @@
-% This script visualize the combination of the 2 mutation bias figures into
+% This script visualizes the combination of the 2 mutation bias figures into
 % one single figure
 
 clear

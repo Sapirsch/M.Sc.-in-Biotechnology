@@ -1,4 +1,4 @@
-% This script prepare the data for the mutation bias figure
+% This script prepares the data for the mutation bias figure
 
 clear
 
