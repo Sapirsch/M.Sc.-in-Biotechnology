@@ -39,19 +39,15 @@ Cellular fitness, as measured by growth curves on minimal media, of &Delta;mutS 
 
 <sub> **Figure 4**: Crystal structure of \*E. coli
 8 K12 malate dehydrogenase (1.54$\AA$).
-
 Isoleucine-to-Leucine substitution mutation at position 333 of Mdh occurred near the active site, which is located at position 177. Interestingly, this gene was reported to be involved in several DNA repair pathways and in promoting survival under stress conditions in _E. coli_. Further study is required to better understand the biochemical basis of this mutation, and its relation to the lifespan extension observed in the Evo&Delta;mutS strain.
 
 </sub>
 
-### A:T-C:G transversions occurred more often in convergent
-
-mutations than in singleton mutations
+### A:T-C:G transversions occurred more often in convergent mutations than in singleton mutations
 
 ![Alt text](Figures/5_201122_mutation_bias_for_presentation_3.png)
 
 <sub> **Figure 5**: Comparison of mutation spectrum revealed a significant deviation from the canonical mutation bias.
-
 **(A)** Comparative analysis of mutations obtained in stagnating &Delta;mutS cells and rapidly replicating &Delta;mutS cells revealed that stagnating &Delta;mutS cells increased the occurrence of A:T-C:G mutations by 32-fold after the ALE experiment. **(B)** The deviation from the canonical mutation spectrum in the stagnating &Delta;mutS cells is even stronger in mutations that occurred in multiple replicates (compared with singleton mutations that occurred only in a single repetition).
 
 </sub>
