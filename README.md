@@ -36,7 +36,7 @@ Cellular fitness, as measured by growth curves on minimal media, of &Delta;mutS 
 ![Alt text](Figures/4_mdh%20sturcture%20fig%20-%20white%20background%203.png)
 
 <sub> **Figure 4**: Crystal structure of \*E. coli
-8 K12 malate dehydrogenase (1.54:math:`\AA`).
+8 K12 malate dehydrogenase (1.54Å).
 Isoleucine-to-Leucine substitution mutation at position 333 of Mdh occurred near the active site, which is located at position 177. Interestingly, this gene was reported to be involved in several DNA repair pathways and in promoting survival under stress conditions in _E. coli_. Further study is required to better understand the biochemical basis of this mutation, and its relation to the lifespan extension observed in the Evo&Delta;mutS strain.
 
 </sub>
