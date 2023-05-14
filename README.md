@@ -10,7 +10,7 @@ Humanity’s quest to prolong life is as old as life itself. Since the ancient t
 
 ### Adaptive lab evolution (ALE) experiment resulted in a remarkable lifespan extension
 
-![Alt text](Figures/Death_curve_final.png)
+![Alt text](Figures/1.1_Death_curve_final.png)
 ![Alt text](Figures/1.2_Bar_graph_for_dmuts_anc_vs_evo_cols_for_lifespan_final.png)
 
 <sub>**Figure 1**: Death curve analysis of ancestral and evolved strains.
@@ -23,3 +23,12 @@ Humanity’s quest to prolong life is as old as life itself. Since the ancient t
 
 <sub> **Figure 2**: Growth curves of chosen replicates of ancestral and evolved cells.
 Cellular fitness, as measured by growth curves on minimal media, of &Delta;mutS strain did not change significantly after evolution. Moreover, some Evo&Delta;mutS replicates exhibited a higher growth rate than Anc&Delta;mutS cells, to a point where the growth of WT and the Evo$\Delta$mutS replicates were indistinguishable. <sub>
+
+### Mutation analysis of evolved strains
+
+![Alt text](Figures/3_271022_new_new_muts_all_fis_combined_final.png)
+
+<sub> **Figure 3**: Mutation analysis of Evo$\Delta$mutS replicates after ALE experiment
+**(A)** Comparing mutated genes obtained in our ALE experiment (stagnating cells) and in experiment involving rapidly growing &Delta;mutS cells. Out of the 401 mutated genes the Evo&Delta;mutS strain accumulated during stagnation, 103 genes were also mutated in rapidly dividing &Delta;mutS cells. Yet, statistical analysis shows that this gene intersection is not statistically significant, implying that the mutated genes obtained in the Evo&Delta;mutS strain are associated with survival under stagnating conditions. **(B)** 36 convergent genes mutated in multiple parallel replicates in Evo$\Delta$mutS strain, grouped by the number of occurrences of each mutated gene. **(C)** Description of some of the cellular functions the convergent mutated genes are involved in. 9 mutated genes are associated with metabolism _P value_ = $7.77 &times; 10^-3`$),
+
+ <sub>
