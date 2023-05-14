@@ -60,3 +60,12 @@ Isoleucine-to-Leucine substitution mutation at position 333 of Mdh occurred near
 **(A)** MIC values of Anc&Delta;mutS and Evo&Delta;mutS strains for TMP. The concentration of TMP used in the ALE experiment was 2-fold higher than the initial MIC levels of the Anc&Delta;mutS. MIC levels of the &Delta;mutS strain for TMP alone were increased after the ALE experiment (the antibiotic concentrations used in the experiment are shown by a horizontal red line). **(B)** MIC levels of ancestral and evolved &Delta;mutS strains for CPR. The concentration of CPR used in the ALE experiment was 4-fold higher than the initial MIC levels of the Anc&Delta;mutS. No notable change in MIC values was observed in Evo&Delta;mutS strain.
 **(C)** MIC values of Anc&Delta;mutS and Evo&Delta;mutS strains for the combination of TMP and CPR. Reassuringly, Evo&Delta;mutS strain remained susceptible for the combination of both antibiotics, despite a slight incense in MIC values for the antibiotics combination.
 </sub>
+
+### &Delta;mutS strain reduced its mutation rate by 10-fold after ALE experiment: preliminary results
+
+![Alt text](Figures/7_201122_mutation_rate_relative_to%20WT.png)
+
+<sub> **Figure 7**: Mutation rates of ancestral and evolved &Delta;mutS strains relative to the WT strain.
+Comparison of mutation rates of ancestral and evolved &Delta;mutS strains relative to the WT strain (defined as 1 in this figure). Before the ALE experiment, our Anc&Delta;mutS strain have had a mutation rate that is higher by approximately 100-fold than the WT strain. The Evo&Delta;mutS strain reduced its mutation rate by 10-fold after the ALE experiment, which may have cause for the lifespan extension. These results are still preliminary. Therefore, additional assays are required to verify and better understand the nature of this reduction in mutation rates and its relation to the extended survival of the Evo&Delta;mutS cells.
+
+</sub>
