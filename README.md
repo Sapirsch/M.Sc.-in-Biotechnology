@@ -15,3 +15,11 @@ Humanity’s quest to prolong life is as old as life itself. Since the ancient t
 
 <sub>**Figure 1**: Death curve analysis of ancestral and evolved strains.
 **(A)** Death curves of AncWT, Anc&Delta;mutS and Evo&Delta;mutS strains. The AncWT strain survived for 32 days an ongoing starvation under stagnating conditions. The Anc&Delta;mutS strain remained viable for only 20 days and had an elevated death rate. The Evo&Delta;mutS strain doubled its lifespan and survived the stagnating conditions for a total of 41 days. **(B)** Number of survival days of each ancestral and evolved &Delta;mutS replicates. Despite the lifespan variation the Evo&Delta;mutS replicates have shown, all evolved replicates displayed a considerable lifespan increase relative to their corresponded ancestral replicates. Four replicates even able survived the stagnating conditions for 41 days, while their ancestors survived such conditions for only 18 days. <sub>
+
+### No apparent trade-offs in cellular fitness after lifespan extension
+
+![Alt text](Figures/2.1_Rep_4_Rep_5_final.png)
+![Alt text](Figures/2.2_Rep_6_Rep_10_final.png)
+
+<sub> **Figure 2**: Growth curves of chosen replicates of ancestral and evolved cells.
+Cellular fitness, as measured by growth curves on minimal media, of &Delta;mutS strain did not change significantly after evolution. Moreover, some Evo&Delta;mutS replicates exhibited a higher growth rate than Anc&Delta;mutS cells, to a point where the growth of WT and the Evo$\Delta$mutS replicates were indistinguishable. <sub>
