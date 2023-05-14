@@ -28,7 +28,7 @@ Cellular fitness, as measured by growth curves on minimal media, of &Delta;mutS 
 
 ![Alt text](Figures/3_271022_new_new_muts_all_fis_combined_final.png)
 
-<sub> **Figure 3**: Mutation analysis of Evo$\Delta$mutS replicates after ALE experiment
+<sub> **Figure 3**: Mutation analysis of Evo$\Delta$mutS replicates after ALE experiment.
 **(A)** Comparing mutated genes obtained in our ALE experiment (stagnating cells) and in experiment involving rapidly growing &Delta;mutS cells. Out of the 401 mutated genes the Evo&Delta;mutS strain accumulated during stagnation, 103 genes were also mutated in rapidly dividing &Delta;mutS cells. Yet, statistical analysis shows that this gene intersection is not statistically significant, implying that the mutated genes obtained in the Evo&Delta;mutS strain are associated with survival under stagnating conditions. **(B)** 36 convergent genes mutated in multiple parallel replicates in Evo$\Delta$mutS strain, grouped by the number of occurrences of each mutated gene. **(C)** Description of some of the cellular functions the convergent mutated genes are involved in. 9 mutated genes are associated with metabolism _P value_ = 7.77 &times; 10<sup>-3</sup>), 4 genes are linked to DNA repair and replication _P value_ = 1.6 &times; 10<sup>-5</sup>), 5 genes are related to protein transport _P value_ = 1.5 &times; 10<sup>-2</sup>), 4 genes are involved in response to antibiotics _P value_ = 4.3 &times; 10<sup>-7</sup>), and 14 genes are uncharacterized.
 
  </sub>
@@ -38,10 +38,20 @@ Cellular fitness, as measured by growth curves on minimal media, of &Delta;mutS 
 ![Alt text](Figures/4_mdh%20sturcture%20fig%20-%20white%20background%203.png)
 
 <sub> **Figure 4**: Crystal structure of \*E. coli
-8 K12 malate dehydrogenase (1.54\AA)
+8 K12 malate dehydrogenase (1.54$\AA$).
 
 Isoleucine-to-Leucine substitution mutation at position 333 of Mdh occurred near the active site, which is located at position 177. Interestingly, this gene was reported to be involved in several DNA repair pathways and in promoting survival under stress conditions in _E. coli_. Further study is required to better understand the biochemical basis of this mutation, and its relation to the lifespan extension observed in the Evo&Delta;mutS strain.
 
 </sub>
 
-<sub> \*\*Figure
+### A:T-C:G transversions occurred more often in convergent
+
+mutations than in singleton mutations
+
+![Alt text](Figures/5_201122_mutation_bias_for_presentation_3.png)
+
+<sub> **Figure 5**: Comparison of mutation spectrum revealed a significant deviation from the canonical mutation bias.
+
+**(A)** Comparative analysis of mutations obtained in stagnating &Delta;mutS cells and rapidly replicating &Delta;mutS cells revealed that stagnating &Delta;mutS cells increased the occurrence of A:T-C:G mutations by 32-fold after the ALE experiment. **(B)** The deviation from the canonical mutation spectrum in the stagnating &Delta;mutS cells is even stronger in mutations that occurred in multiple replicates (compared with singleton mutations that occurred only in a single repetition).
+
+</sub>
