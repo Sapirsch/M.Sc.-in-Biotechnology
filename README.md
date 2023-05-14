@@ -8,7 +8,7 @@ Humanity’s quest to prolong life is as old as life itself. Since the ancient t
 
 ## Main Results
 
-# Adaptive lab evolution (ALE) experiment resulted in a remarkable lifespan extension
+### Adaptive lab evolution (ALE) experiment resulted in a remarkable lifespan extension
 
 ![Alt text](Figures/Death_curve_final.png)
 ![Alt text](Figures/1.2_Bar_graph_for_dmuts_anc_vs_evo_cols_for_lifespan_final.png)
