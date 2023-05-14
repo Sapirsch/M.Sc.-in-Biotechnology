@@ -8,7 +8,10 @@ Humanity’s quest to prolong life is as old as life itself. Since the ancient t
 
 ## Main Results
 
+# Adaptive lab evolution (ALE) experiment resulted in a remarkable lifespan extension
+
 ![Alt text](Figures/Death_curve_final.png)
+![Alt text](Figures/1.2_Bar_graph_for_dmuts_anc_vs_evo_cols_for_lifespan_final.png)
 
 <sub>**Figure 1**: Death curve analysis of ancestral and evolved strains.
 **(A)** Death curves of AncWT, Anc&Delta;mutS and Evo&Delta;mutS strains. The AncWT strain survived for 32 days an ongoing starvation under stagnating conditions. The Anc&Delta;mutS strain remained viable for only 20 days and had an elevated death rate. The Evo&Delta;mutS strain doubled its lifespan and survived the stagnating conditions for a total of 41 days. **(B)** Number of survival days of each ancestral and evolved &Delta;mutS replicates. Despite the lifespan variation the Evo&Delta;mutS replicates have shown, all evolved replicates displayed a considerable lifespan increase relative to their corresponded ancestral replicates. Four replicates even able survived the stagnating conditions for 41 days, while their ancestors survived such conditions for only 18 days. <sub>
