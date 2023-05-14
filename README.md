@@ -51,3 +51,12 @@ Isoleucine-to-Leucine substitution mutation at position 333 of Mdh occurred near
 **(A)** Comparative analysis of mutations obtained in stagnating &Delta;mutS cells and rapidly replicating &Delta;mutS cells revealed that stagnating &Delta;mutS cells increased the occurrence of A:T-C:G mutations by 32-fold after the ALE experiment. **(B)** The deviation from the canonical mutation spectrum in the stagnating &Delta;mutS cells is even stronger in mutations that occurred in multiple replicates (compared with singleton mutations that occurred only in a single repetition).
 
 </sub>
+
+### Analysis of molecular mechanisms underlying reduced death rate
+
+![Alt text](Figures/6_271022_new_new_MIC_anc_vs_evo_final_.png)
+
+<sub> **Figure 6**: Change in MIC values in ancestral and evolved &Delta;mutS} strains.
+**(A)** MIC values of Anc&Delta;mutS and Evo&Delta;mutS strains for TMP. The concentration of TMP used in the ALE experiment was 2-fold higher than the initial MIC levels of the Anc&Delta;mutS. MIC levels of the &Delta;mutS strain for TMP alone were increased after the ALE experiment (the antibiotic concentrations used in the experiment are shown by a horizontal red line). **(B)** MIC levels of ancestral and evolved &Delta;mutS strains for CPR. The concentration of CPR used in the ALE experiment was 4-fold higher than the initial MIC levels of the Anc&Delta;mutS. No notable change in MIC values was observed in Evo&Delta;mutS strain.
+**(C)** MIC values of Anc&Delta;mutS and Evo&Delta;mutS strains for the combination of TMP and CPR. Reassuringly, Evo&Delta;mutS strain remained susceptible for the combination of both antibiotics, despite a slight incense in MIC values for the antibiotics combination.
+</sub>
