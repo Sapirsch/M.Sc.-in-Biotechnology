@@ -6,17 +6,18 @@ Humanity’s quest to prolong life is as old as life itself. Since the ancient t
 
 ## List of Abbreviation
 
-|----------------|----------------------------------|
-| &Delta;mutS | _MutS_ knockout strain |
-| ALE | Adaptive Laboratory Evolution |
+|  Abbreviation  |            Definition            |
+| :------------: | :------------------------------: |
+|  &Delta;mutS   |      _MutS_ knockout strain      |
+|      ALE       |  Adaptive Laboratory Evolution   |
 | Anc&Delta;mutS | _MutS_ knockout Ancestral strain |
-| AncWT | Wild Type Ancestral strain |
-| CPR | Ciprofloxacin |
-| Evo&Delta;mutS | _MutS_ knockout Evolved strain |
-| EvoWT | Wild Type Evolved strain |
-| MIC | Minimal Inhibitory Concentration |
-| TMP | Trimethoprim |
-| WT | Wild Type strain |
+|     AncWT      |    Wild Type Ancestral strain    |
+|      CPR       |          Ciprofloxacin           |
+| Evo&Delta;mutS |  _MutS_ knockout Evolved strain  |
+|     EvoWT      |     Wild Type Evolved strain     |
+|      MIC       | Minimal Inhibitory Concentration |
+|      TMP       |           Trimethoprim           |
+|       WT       |         Wild Type strain         |
 
 ## Main Results
 
