@@ -83,7 +83,7 @@ Comparison of mutation rates of ancestral and evolved &Delta;mutS strains relati
 
 </sub>
 
-# Appendix
+## Appendix
 
 ![Alt text](Figures/A1_Death_curve_WT_anc_vs_evo_final.png)
 
