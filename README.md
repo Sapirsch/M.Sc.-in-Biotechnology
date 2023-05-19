@@ -67,3 +67,23 @@ Isoleucine-to-Leucine substitution mutation at position 333 of Mdh occurred near
 Comparison of mutation rates of ancestral and evolved &Delta;mutS strains relative to the WT strain (defined as 1 in this figure). Before the ALE experiment, our Anc&Delta;mutS strain have had a mutation rate that is higher by approximately 100-fold than the WT strain. The Evo&Delta;mutS strain reduced its mutation rate by 10-fold after the ALE experiment, which may have cause for the lifespan extension. These results are still preliminary. Therefore, additional assays are required to verify and better understand the nature of this reduction in mutation rates and its relation to the extended survival of the Evo&Delta;mutS cells.
 
 </sub>
+
+# Appendix
+
+![Alt text](Figures/A1_Death_curve_WT_anc_vs_evo_final.png)
+
+<sub> **Figure A.1**: Death curves of WT strains.
+Both AncWT and EvoWT strains survived a total of 32 days, implying that the WT strain did not improve its lifespan post evolution. Further studies are required to better understand survival mechanisms in the WT strain.
+</sub>
+
+![Alt text](Figures/A2_seq_contx.png)
+
+<sub> **Figure A.2**: Sequence logo of mutated positions of all A:T-C:G transversions obtained in Evo&Delta;mutS} strain.
+No significant reoccurring motif was found in the sequences of all A:T-C:G mutations, revealing that such errors are not dependent on sequence context.
+</sub>
+
+![Alt text](Figures/A3_MIC_evo_replicates_final_.png)
+
+<sub> **Figure A.3**: MIC levels of Evo&Delta;mutS replicates.
+**(A)** MIC values of Evo&Delta;mutS strain for only TMP. Few evolved &Delta;mutS replicates gained resistance for TMP alone, and were even able to grow under TMP at a concentration that is 2-fold higher than the one used in the ALE experiment (which is represented by the horizontal red line). **(B)** MIC levels of Evo&Delta;mutS replicates for CPR. No notable change in MIC values of the Evo&Delta;mutS replicates, implying that this strain remained susceptible to CPR after evolution. **(C)** MIC values Evo&Delta;mutS replicates for the combination of TMP and CPR. All replicates displayed MIC values that are significantly lower than the concentrations used in the ALE experiment, suggesting that all Evo&Delta;mutS replicates are still fully susceptible to the combination of TMP and CPR, which means that the stagnating conditions remained intact during the ALE experiment.
+</sub>
